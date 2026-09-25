@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/bluelightspirit/profile-views/tree/master/readme/1387196941/year.md">
+			<a href="https://github.com/bluelightspirit/profile-views/tree/master/readme/1387196941/week.md">
 				bluelightspirit
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/bluelightspirit/profile-views/raw/master/graph/1387196941/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/bluelightspirit/profile-views/raw/master/graph/1387196941/small/week.png" height="20"> 0
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/9/25 10:05 AM UTC</i></small>
+<small><i>Last updated on 2026/9/25 3:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
